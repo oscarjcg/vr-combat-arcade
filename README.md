@@ -1,9 +1,11 @@
 # **VR Combat Arcade**
 ### Juego simple con Google VR en Unity.
 
-**Demo (Video)**: https://youtu.be/9D5HkOptpD8
+**Demo (Video)**: https://youtu.be/TAILduu6Hu0
 
 **App (Android)**: https://github.com/oscarjcg/vr-combat-arcade/tree/master/APK
+
+**Fecha**: Enero, 2018
 
 <p align="center">
 <img style="padding: 2px;" src="images/2.png" alt="Image 1"
@@ -18,7 +20,7 @@
 	title="Preview" width="500"/>
 </p>
 
-**Descripción**: El jugador se enfrenta a varios enemigos soldado en sucesivas zonas. Cada zona tiene 2 o 3 enemigos. Para pasar a la siguiente zona hay que eliminar a los enemigos activos. Tras la última zona se calcula una puntuación.
+**Descripción**: El jugador se enfrenta a varios enemigos soldado en sucesivas zonas. Cada zona tiene 2 o 3 enemigos. Para pasar a la siguiente zona hay que eliminar a los enemigos activos. Tras la última zona se calcula una puntuación final.
 
 **Características**:
 * Controles (mando inalámbrico):
